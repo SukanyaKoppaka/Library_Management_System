@@ -1,0 +1,112 @@
+{
+    "books": [
+        {
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "isbn": "12345"
+        },
+        {
+            "title": "Harry Potter",
+            "author": "J.K. Rowling",
+            "genre": "Fantasy",
+            "isbn": "67890"
+        },
+        {
+            "title": "Wings of Fire",
+            "author": "A.P.J. Abdul Kalam",
+            "genre": "Biography",
+            "isbn": "54321"
+        },
+        {
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "genre": "Fiction",
+            "isbn": "10001"
+        },
+        {
+            "title": "Rich Dad Poor Dad",
+            "author": "Robert Kiyosaki",
+            "genre": "Finance",
+            "isbn": "10002"
+        },
+        {
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "genre": "Self Help",
+            "isbn": "10003"
+        },
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Classic",
+            "isbn": "10004"
+        },
+        {
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "genre": "Romance",
+            "isbn": "10005"
+        },
+        {
+            "title": "1984",
+            "author": "George Orwell",
+            "genre": "Dystopian",
+            "isbn": "10006"
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "genre": "Classic",
+            "isbn": "10007"
+        },
+        {
+            "title": "The Discovery of India",
+            "author": "Jawaharlal Nehru",
+            "genre": "History",
+            "isbn": "10008"
+        },
+        {
+            "title": "The Power of Your Subconscious Mind",
+            "author": "Joseph Murphy",
+            "genre": "Self Help",
+            "isbn": "10009"
+        },
+        {
+            "title": "Ikigai",
+            "author": "Hector Garcia",
+            "genre": "Self Help",
+            "isbn": "10010"
+        },
+        {
+            "title": "The Jungle Book",
+            "author": "Rudyard Kipling",
+            "genre": "Adventure",
+            "isbn": "10011"
+        },
+        {
+            "title": "A Brief History of Time",
+            "author": "Stephen Hawking",
+            "genre": "Science",
+            "isbn": "10012"
+        }
+    ],
+    "members": [
+        {
+            "name": "sukanya",
+            "email": "sai@gmail.com"
+        },
+        {
+            "name": "sukanya",
+            "email": "sukanya@gmail.com"
+        }
+    ],
+    "loans": [
+        {
+            "book_isbn": "12345",
+            "member_email": "sukanya@gmail.com",
+            "due_date": "2026-12-06",
+            "returned": true
+        }
+    ]
+}
